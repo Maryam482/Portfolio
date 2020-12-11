@@ -1,0 +1,103 @@
+
+
+@import url('https://rsms.me/inter/inter.css');
+
+html,
+body {
+  width: 100%;
+  height:100%;
+  margin: 0;
+  padding: 0;
+ 
+  
+}
+
+body {
+  background: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+  background-color: white;
+  /* background-image: url('https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg');
+  */
+
+ 
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  font-family: 'Inter', sans-serif;
+  
+}
+
+.trails-main {
+  
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  justify-content: center; 
+   align-items: center;
+  width: 20%;
+  height: 30%;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  text-align:center ;
+  justify-content:center ;
+}
+
+.trails-text {
+  position: relative;
+   width: 100%;
+  height: 20px; 
+  /* height: 110px; */
+  /* height: 40px; */
+  /* line-height: 110px; */
+  /* line-height: 40px; */
+  color: black;
+  /* font-size: 8em; */
+  font-size: 30px;
+  font-weight:bold;
+  /* font-weight: 800; */
+  /* letter-spacing: -9px; */
+  letter-spacing: 1px;
+  /* will-change: transform, opacity;
+  overflow: hidden; */
+  
+
+
+}
+
+/* .trails-text > div {
+  overflow: hidden;
+  text-align: center;
+  justify-content: center;
+ 
+} */
+.text{
+  height: 30px;
+  
+}
+.link{
+  text-decoration: none !important;
+  color: white;
+}
+.img{
+  width: 400px !important;
+  margin :200px;
+  height: auto;
+}
+.text1{
+  width: 400px !important;
+  height: auto;
+  margin :216px;
+  
+}
